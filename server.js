@@ -24,17 +24,6 @@ const swaggerOptions = {
       description:
         "A REST API built with Express and MongoDB. This API provides CRUD Operations on Hotels, Bookings and Users.",
     },
-    // host: "localhost:5000",
-    // components: {
-    //     securitySchemes: {
-    //         Authorization: {
-    //             type: "http",
-    //             scheme: "bearer",
-    //             bearerFormat: "JWT",
-    //             value: "Bearer <JWT token here>"
-    //         }
-    //     }
-    // }
     components: {
         securitySchemes: {
           bearerAuth: {
@@ -53,10 +42,10 @@ const swaggerOptions = {
           url: "http://localhost:5000/",
           description: "Localhost development server"
         },
-        // {
-        //   url: "https://blogging-platform-og12.onrender.com",
-        //   description: "Remote deployment on render.com"
-        // }
+        {
+          url: "https://hotel-booking-9icz.onrender.com/",
+          description: "Remote deployment on render.com"
+        }
       ],
   },
   apis: ["./routes/*.js"],
