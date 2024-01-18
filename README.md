@@ -29,3 +29,5 @@ https://hotel-booking-9icz.onrender.com
 
 ## Demonstration:
 
+https://github.com/adityaganji889/Hotel-Booking-Platform-API/assets/88584574/d85db10c-d0ff-4f0e-96ab-a5e322f41e82
+
