@@ -24,7 +24,7 @@
 
 #### Deployed Version:
 
-![image](https://github.com/adityaganji889/Hotel-Booking-Platform-API/assets/88584574/618f324b-a8db-452d-9e31-5a68100271a4)
+https://hotel-booking-9icz.onrender.com
 
 
 ## Demonstration:
