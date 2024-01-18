@@ -11,7 +11,7 @@
  * Documented proper error handling for a few scenarios, and how they would be returned with meaningful error messages.
 
 ## Backend Schema Diagram:
- ![image](https://github.com/adityaganji889/Blogging-Platform-API/assets/88584574/2f12f6ea-bca0-4558-8c07-48e7f201d2d2)
+![image](https://github.com/adityaganji889/Hotel-Booking-Platform-API/assets/88584574/e6991efe-ee8a-4b05-9cd3-36d962c82741)
 
 
 ## Tech Stack Used:
